@@ -1,0 +1,7 @@
+nav ul li{
+    text-decoration: none;
+}
+main form label{
+    display: block;
+    margin: 30px;
+}
